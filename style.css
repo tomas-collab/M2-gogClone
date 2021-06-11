@@ -1,0 +1,32 @@
+#price {
+  text-decoration: line-through;
+}
+
+.galaxy {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+}
+
+.card-last {
+  border-style: dashed;
+  border-width: 2px;
+  border-color: black;
+}
+
+.card-last h6 {
+  align-items: center;
+}
+
+.add-cart {
+  position: relative;
+  left: 1200px;
+  right: 0px;
+  bottom: 100px;
+  background-color: #a5d241;
+}
+
+.big-price {
+  position: absolute;
+  left: 1000px;
+  bottom: 90px;
+}
