@@ -1,16 +1,20 @@
+body {
+  background-color: #1c0e27;
+  color: white;
+}
 #price {
   text-decoration: line-through;
 }
 
 .galaxy {
-  border-top: 2px solid black;
-  border-bottom: 2px solid black;
+  border-top: 2px solid white;
+  border-bottom: 2px solid white;
 }
 
 .card-last {
   border-style: dashed;
   border-width: 2px;
-  border-color: black;
+  border-color: greenyellow;
 }
 
 .card-last h6 {
@@ -19,7 +23,7 @@
 
 .add-cart {
   position: relative;
-  left: 1200px;
+  left: 1000px;
   right: 0px;
   bottom: 100px;
   background-color: #a5d241;
@@ -27,6 +31,9 @@
 
 .big-price {
   position: absolute;
-  left: 1000px;
+  left: 800px;
   bottom: 90px;
+}
+.navbar {
+  position: sticky;
 }
