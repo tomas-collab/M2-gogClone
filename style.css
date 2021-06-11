@@ -36,4 +36,15 @@ body {
 }
 .navbar {
   position: sticky;
+  background-color: #150d1b;
+  justify-content: center;
+}
+
+.inner-inner {
+  display: flex;
+  flex-direction: column;
+}
+.inner-most {
+  padding: 0%;
+  margin: 0%;
 }
