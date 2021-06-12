@@ -23,16 +23,16 @@ body {
 
 .add-cart {
   position: relative;
-  left: 1000px;
+  left: 800px;
   right: 0px;
-  bottom: 100px;
+  bottom: 80px;
   background-color: #a5d241;
 }
 
 .big-price {
   position: absolute;
-  left: 800px;
-  bottom: 90px;
+  left: 600px;
+  bottom: 70px;
 }
 .navbar {
   position: sticky;
@@ -47,4 +47,20 @@ body {
 .inner-most {
   padding: 0%;
   margin: 0%;
+}
+
+.left-images {
+  margin: 0px;
+  padding: 0px;
+}
+.final-images {
+  margin: 0px;
+  padding: 0px;
+}
+
+#first-footer {
+  background-color: #262626;
+}
+#second-footer {
+  background-color: #2f2f2f;
 }
